@@ -1,0 +1,25 @@
+body {
+    background: #8f8e92;
+}
+
+h3 {
+    color: red;
+}
+
+.foto-principal {
+    width: 250px;
+    border:2px solid black; /*shorthand*/
+    border-radius: 50% 80% 80% 80%;
+    margin: 30px;
+    padding: 10%;
+    box-shadow: 2px 2px 2px black;
+
+}
+
+#titulo-principal {
+    color: yellow;
+}
+
+p {
+    color: #f01cde;
+}

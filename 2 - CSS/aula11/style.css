@@ -1,0 +1,35 @@
+body {
+    background: #8f8e92;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rgb(34, 34, 34);
+}
+h1{
+    margin-bottom:0;
+    letter-spacing:-1px;
+}
+
+h2{
+    margin-top:0;
+    font-style: italic;
+    color: #3f0fcf;
+    font-weight:100;
+    letter-spacing:-1px;
+}
+
+h3 {
+    color: red;
+}
+
+.foto-principal {
+    width: 250px;
+    border:2px solid black; /*shorthand*/
+    border-radius: 50% 80% 80% 80%;
+    margin: 10px;
+    padding: 0%;
+    box-shadow: 1px 1px 1px black;
+
+}
+
+#titulo-principal {
+    color: #3f0fcf;
+}

@@ -1,0 +1,60 @@
+body {
+    background: #f7f6f8;
+    font-family: 'Quicksand', sans-serif;;
+    color: rgb(34, 34, 34);
+}
+
+.container{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.profile{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+h1{
+    margin-bottom:0;
+    margin-top: 0;
+    letter-spacing:-1px;
+}
+
+h2{
+    margin-top:0;
+    font-style: italic;
+    color: #000000;
+    font-weight:100;
+    letter-spacing:-1px;
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+}
+
+.foto-principal {
+    width: 250px;
+    border:2px solid black; /*shorthand*/
+    border-radius: 20% 20% 20% 20%;
+    margin: 10px 10px 0;
+    padding: 0%;
+    box-shadow: 1px 1px 1px black;
+
+}
+
+.social-links { /* para remover os underlines entre as imagens linkadas*/
+    text-decoration: none;
+}
+
+.social-icons { /* para as imagens em icones*/
+    width: 20px;
+}
+
+.github {
+    margin: 0 15px 0 15px;
+}
+
+#titulo-principal {
+    color: #000000;
+    font-size: 25px;
+}

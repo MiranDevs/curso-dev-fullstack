@@ -1,0 +1,26 @@
+body {
+    background: #312ec5;
+}
+
+h3 {
+    color: red;
+}
+
+.foto-principal {
+    width: 250px;
+    border:2px solid black; /*shorthand*/
+    border-radius: 50% 80% 80% 80%;
+     /*margin-top: 30px;
+     margin-bottom: 100px;
+     margin-left:100px;*/
+     margin: 30px 30px 30px 30px;
+
+}
+
+#titulo-principal {
+    color: yellow;
+}
+
+p {
+    color: #f01cde;
+}
